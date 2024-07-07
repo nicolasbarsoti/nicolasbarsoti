@@ -29,24 +29,6 @@
   Java     
 </div>
 
-
-<h2>Frameworks/Bibliotecas</h2>
-
-<div style="display: flex;"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  ReactJS
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  Bootstrap
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="background:#fff">
-  Express
-</div>                
-
-
-<h2>Ferramentas</h2>
-
-<div style="display: flex;"><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
-  Nodejs
 </div>     
 
 
