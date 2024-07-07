@@ -1,14 +1,11 @@
-<h1>Moisés Barsoti</h1> 
+<h1>Nicolas Barsoti</h1> 
 
-### Olá! tudo bem?... Seja bem vindo ao meu Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
-
-
-- 🌱 Eu sou um programador FULLSTACK...
-- 🎇 Eu tenho 18 anos e faço aniversário 03/07/05.
+- 🌱 Eu sou um programador Back-end...
+- 🎇 Eu tenho 18 anos e faço aniversário 07/09/05.
 - 📩 Entrar em Contato: 👇🏼
 
-<a href="https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" rel="nofollow" title="Entrar no Linkedin">
-<img src="https://img.shields.io/badge/-Mois%C3%A9s-57b000?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mois%C3%A9s-barsoti-468869278" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/nicolas-barsoti-7320a6305/" rel="nofollow" title="Entrar no Linkedin">
+<img src="https://img.shields.io/badge/-nicolas-barsoti-7320a6305/?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/nicolas-barsoti-7320a6305/" style="max-width: 100%;">
 </a>
 <a href="mailto:moises.barsot2@gmail.com" title="Enviar um E-mail">
 <img src="https://img.shields.io/badge/-moises.barsot2@gmail.com-57b000?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:moises.barsot2@gmail.com" style="max-width: 100%;">
