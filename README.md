@@ -1,7 +1,7 @@
 <h1>Nicolas Barsoti</h1> 
 
 - 🌱 Eu sou um programador Back-end...
-- 🎇 Eu tenho 18 anos e faço aniversário 07/09/05.
+- 🎇 Eu tenho 18 anos e faço aniversário 07/11/05.
 - 📩 Entrar em Contato: 👇🏼
 
 <a href="https://www.linkedin.com/in/nicolas-barsoti-7320a6305/" rel="nofollow" title="Entrar no Linkedin">
